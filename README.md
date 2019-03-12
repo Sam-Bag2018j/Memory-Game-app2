@@ -1,6 +1,6 @@
 # Memory-Game-app2
 
-## This is a small progect called memory game to test the memory of users. It is the scond assignment of Nanodegree Front-End Web developer. You have to flip any two cards you think they are the same. If they match it, continue the other cards until all the cards are match it. There are a count down timer, number of movements and stars rating. When game finish it, there is a dialogue show how many stars you deserve it depends on the timer. you can reset the game at any time by clicking on reset button.
+ This is a small progect called memory game to test the memory of users. It is the scond assignment of Nanodegree Front-End Web developer. You have to flip any two cards you think they are the same. If they match it, continue the other cards until all the cards are match it. There are a count down timer, number of movements and stars rating. When game finish it, there is a dialogue show how many stars you deserve it depends on the timer. you can reset the game at any time by clicking on reset button.
 
 ## What do you need:
 * css, html and javascript editor.
